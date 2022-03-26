@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZPR19.
 WRITE: 'This is OpenSAP course'.
-WRITE: 'This is my remote change'.
+WRITE: 'This is my local change'.
